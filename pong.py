@@ -1,5 +1,4 @@
 # Pong
-# version 3
 # this program does the following:
 # Create window
 # Create game
