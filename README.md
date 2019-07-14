@@ -1,2 +1,2 @@
 # pong
-A simple pong game created using pygame library.
+A simple pong game created using pygame library. Created in my first semester of University.
